@@ -2,3 +2,6 @@
 TestResult/
 OmegaSudoku/
 *.vs/
+*SudokuTests/SudokuTests.csproj
+*SudokuTests/bin/
+*SudokuTests/obj/
